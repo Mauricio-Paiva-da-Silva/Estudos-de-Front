@@ -3,19 +3,35 @@
     padding: 0;
 }
 body {
-    background-color: #600060;
+    background-color: white;
 }
-h1 {
+#titulo {
     font-family: sans-serif;
-    font-size: 40px;
-    font-style: italic;
     color: yellow;
-}
-p {
-    color:yellow;
-    font-family: serif;
-    font-size: 20px;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    margin-bottom: 5px;
 }
 .all {
-    width: 900px;
+    width: 72%;
+    background-color: rgb(116, 0, 224);
+    font-family: serif;
+    font-size: medium;
+    color: yellow;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img1 {
+    margin-top: 5px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+p {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
