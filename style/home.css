@@ -12,7 +12,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 320px;
-    margin-bottom: 5px;
 }
 .all {
     width: 72%;
@@ -30,8 +29,8 @@ body {
     margin-left: 20%;
     margin-right: 20%;
 }
-#img_text {
-    width: 40%;
+#img_org {
+    width: 47%;
     margin-top: 2%;
     margin-left: 2%;
 }
@@ -39,6 +38,7 @@ p {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 5px;
 }
 #titulo2 {
     font-family: sans-serif;
@@ -51,6 +51,9 @@ p {
 .org {
     margin-top: 10px;
 }
-#text_img {
-    width: 58%;
+#img_org_unica {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    width: 94%;
 }
