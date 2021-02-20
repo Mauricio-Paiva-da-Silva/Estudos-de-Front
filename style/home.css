@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color: white;
+    background-color: black;
 }
 #titulo {
     font-family: sans-serif;
@@ -16,7 +16,7 @@ body {
 }
 .all {
     width: 72%;
-    background-color: rgb(116, 0, 224);
+    background-color: rgb(12, 12, 39);
     font-family: serif;
     font-size: medium;
     color: yellow;
@@ -24,14 +24,33 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-#img1 {
+#img {
     margin-top: 5px;
     width: 60%;
     margin-left: 20%;
     margin-right: 20%;
 }
+#img_text {
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
 p {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+}
+#titulo2 {
+    font-family: sans-serif;
+    color: yellow;
+    font-style: italic;
+    margin-left: 5%;
+    margin-right: auto;
+    width: auto;
+}
+.org {
+    margin-top: 10px;
+}
+#text_img {
+    width: 58%;
 }
