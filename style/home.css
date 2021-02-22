@@ -3,7 +3,8 @@
     padding: 0;
 }
 body {
-    background-color: black;
+    background-image: url(../img/laterais.png);
+    background-size: 100%;
 }
 #titulo {
     font-family: sans-serif;
@@ -11,7 +12,8 @@ body {
     font-style: italic;
     margin-left: auto;
     margin-right: auto;
-    width: 320px;
+    width: 100%;
+    text-align: center;
 }
 .all {
     width: 72%;
@@ -22,9 +24,10 @@ body {
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+    align-items: center;
 }
 #img {
-    margin-top: 5px;
+    margin-top: 1%;
     width: 60%;
     margin-left: 20%;
     margin-right: 20%;
@@ -38,7 +41,7 @@ p {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: 5px;
+    margin-top: 2%;
 }
 #titulo2 {
     font-family: sans-serif;
@@ -49,7 +52,7 @@ p {
     width: auto;
 }
 .org {
-    margin-top: 10px;
+    margin-top: 5%;
 }
 #img_org_unica {
     margin-left: 2%;
